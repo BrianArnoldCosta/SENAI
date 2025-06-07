@@ -1,0 +1,9 @@
+Salvando dados no arquivo
+Salvando dados no arquivo
+Salvando dados no arquivo
+Salvando dados no arquivo
+2025-05-31 09:21:12.913281 Salvando dados aqui 0
+2025-05-31 09:21:12.914149 Salvando dados aqui 1
+2025-05-31 09:21:12.914384 Salvando dados aqui 2
+2025-05-31 09:21:12.914709 Salvando dados aqui 3
+2025-05-31 09:21:12.915003 Salvando dados aqui 4
